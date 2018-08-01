@@ -1,10 +1,10 @@
-class App < Sinatra::Base
+# class App < Sinatra::Base
 
-get '/'do
-  "BYE FOELESHA"
-end 
+# get '/'do
+#   "BYE FOELESHA"
+# end 
 
-end 
+# end 
 #   get '/volunteer'do    
 #     "Hello"
 # end
