@@ -2,10 +2,12 @@ class App < Sinatra::Base
 get '/'do
 "BYE FOELESHA"
 end 
-  get '/volunteer'do    
-    "Hello"
-end
+
 end 
+#   get '/volunteer'do    
+#     "Hello"
+# end
+# end 
 # 
 
 
@@ -15,6 +17,6 @@ end
 
 # get '/ADHD'
 # "hello"
-end 
-end 
+# end 
+# end 
 # end for the class App 
