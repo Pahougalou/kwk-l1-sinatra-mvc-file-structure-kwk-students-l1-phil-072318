@@ -24,6 +24,8 @@ get '/ADHD' do
 "hello"
 end
 
+end 
+
 
 # end for the class App 
 
