@@ -19,6 +19,8 @@ get '/donate'do
 "hello"
 end
 
+end 
+
 # get '/ADHD'
 # "hello"
 # end
