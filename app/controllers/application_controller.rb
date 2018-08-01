@@ -20,7 +20,7 @@ get '/donate'do
 end
 
 
-get '/ADHD'
+get '/ADHD' do 
 "hello"
 end
 
