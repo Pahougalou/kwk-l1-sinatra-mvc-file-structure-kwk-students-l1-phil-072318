@@ -9,10 +9,10 @@ class ApplicationController < Sinatra::Base
   "BYE FOELESHA"
 end 
 
-end 
-#   get '/volunteer'do    
-#     "Hello"
-# end
+
+  get '/volunteer'do    
+    "Hello"
+end
  
 # get '/donate'do
 # "hello"
