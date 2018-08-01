@@ -9,4 +9,4 @@ get '/donate'do
 "hello"
 end
 
-get ''
+get '/'
