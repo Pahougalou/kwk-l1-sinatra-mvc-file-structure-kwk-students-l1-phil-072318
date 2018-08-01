@@ -1,5 +1,7 @@
 class App < Sinatra::Base
-
+get '/'do
+"BYE FOELESHA"
+end 
   get '/volunteer'do    
     "Hello"
 end
