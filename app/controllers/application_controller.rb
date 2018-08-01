@@ -13,6 +13,8 @@ end
   get '/volunteer'do    
     "Hello"
 end
+
+end 
  
 # get '/donate'do
 # "hello"
