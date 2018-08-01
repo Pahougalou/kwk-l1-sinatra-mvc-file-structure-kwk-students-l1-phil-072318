@@ -21,7 +21,7 @@ end
 
 
 get '/ADHD' do 
-"hello"
+":ADHD"
 end
 
 end 
