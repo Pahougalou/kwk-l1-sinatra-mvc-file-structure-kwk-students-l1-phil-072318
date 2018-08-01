@@ -6,7 +6,7 @@ class ApplicationController < Sinatra::Base
   end
 
   get '/'do
-  "BYE FOELESHA"
+  <h1>"BYE FOELESHA"</h1>
 end 
 
 end
