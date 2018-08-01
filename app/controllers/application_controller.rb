@@ -18,7 +18,8 @@ end
 
 get '/ADHD'
 "hello"
-end 
+end
+
 end 
 # end for the class App 
 
