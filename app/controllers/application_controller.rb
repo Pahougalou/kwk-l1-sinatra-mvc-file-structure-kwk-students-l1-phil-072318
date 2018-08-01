@@ -14,11 +14,10 @@ end
     "Hello"
 end
 
-end 
  
-# get '/donate'do
-# "hello"
-# end
+get '/donate'do
+"hello"
+end
 
 # get '/ADHD'
 # "hello"
