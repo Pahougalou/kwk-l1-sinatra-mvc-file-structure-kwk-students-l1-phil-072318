@@ -19,11 +19,10 @@ get '/donate'do
 "hello"
 end
 
-end 
 
-# get '/ADHD'
-# "hello"
-# end
+get '/ADHD'
+"hello"
+end
 
 
 # end for the class App 
